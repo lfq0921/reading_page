@@ -160,10 +160,16 @@
     "2025-11-15",
     "2025-11-16",
     "2026-01-30",
-    "2026-01-31"
+    "2026-01-31",
+    "2026-02-04"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-04T08:00:00.000Z",
+    "start": "2026-02-04T00:00:00.000Z",
+    "end": "2026-02-04T00:00:00.000Z",
+    "ttl": 1770251281
   },
   "longest_daily_streak": {
     "duration": 6,
@@ -173,12 +179,12 @@
     "end": "2025-07-15T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-31T08:00:00.000Z",
+    "utcEndTime": "2026-02-04T08:00:00.000Z",
     "start": "2026-01-30T00:00:00.000Z",
-    "end": "2026-01-31T00:00:00.000Z",
-    "ttl": 1770164706
+    "end": "2026-02-04T00:00:00.000Z",
+    "ttl": 1770251281
   },
   "longest_weekly_streak": {
     "duration": 19,
@@ -262,13 +268,13 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 56,
+    "daysLeftInCurrentChallenge": 55,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 1,
+        "quantity": 2,
         "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
