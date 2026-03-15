@@ -172,15 +172,16 @@
     "2026-02-22",
     "2026-02-23",
     "2026-03-07",
-    "2026-03-13"
+    "2026-03-13",
+    "2026-03-14"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-13T07:00:00.000Z",
+    "utcEndTime": "2026-03-14T07:00:00.000Z",
     "start": "2026-03-13T00:00:00.000Z",
-    "end": "2026-03-13T00:00:00.000Z",
-    "ttl": 1773447916
+    "end": "2026-03-14T00:00:00.000Z",
+    "ttl": 1773534685
   },
   "longest_daily_streak": {
     "duration": 6,
@@ -192,10 +193,10 @@
   "current_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-13T07:00:00.000Z",
+    "utcEndTime": "2026-03-14T07:00:00.000Z",
     "start": "2026-01-30T00:00:00.000Z",
-    "end": "2026-03-13T00:00:00.000Z",
-    "ttl": 1773447916
+    "end": "2026-03-14T00:00:00.000Z",
+    "ttl": 1773534685
   },
   "longest_weekly_streak": {
     "duration": 19,
@@ -287,16 +288,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 18,
+    "daysLeftInCurrentChallenge": 17,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 3,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_BronzeReader_135d1a59-dd53-3262-9a3d-f97eb0adb5df.png",
+        "quantity": 1,
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
