@@ -208,12 +208,7 @@
     "end": "2025-07-15T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 7,
-    "readingMarketplace": 1,
-    "utcEndTime": "2026-05-28T07:00:00.000Z",
-    "start": "2026-04-17T00:00:00.000Z",
-    "end": "2026-05-28T00:00:00.000Z",
-    "ttl": 1780793608
+    "duration": 0
   },
   "longest_weekly_streak": {
     "duration": 19,
@@ -222,7 +217,7 @@
     "start": "2025-05-28T00:00:00.000Z",
     "end": "2025-10-03T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "inactive",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -313,7 +308,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 24,
+    "daysLeftInCurrentChallenge": 23,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
